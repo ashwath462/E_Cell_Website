@@ -1,0 +1,25 @@
+.select_year{
+    text-align: left;
+}
+
+.syButton{
+    color: rgb(255, 255, 255);
+    background-color: #c0392b;
+    border-radius: 6px;
+    margin: 0px 7px;
+    border-color: rgb(182, 75, 75);
+}
+
+.syButton:hover{
+     color: rgb(255, 255, 255);
+     background-color: #e74c3c;
+     font-weight: bold;
+     border-color: #e74c3c;
+}
+
+.syButton:visited{
+    color: rgb(255, 255, 255);
+    background-color: #e74c3c;
+    font-weight: bold;
+    border-color: #e74c3c;
+}
