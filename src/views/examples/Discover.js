@@ -63,7 +63,179 @@ function Discover() {
                   </Col>
                 </Row>
                 <Row className="items-row">
-                  <Col className="ml-auto" md="3" sm="4">
+                  <Col className="mr-auto" md="3" sm="4">
+                    <Card className="card-plain text-center">
+                      <div className="card-image">
+                        <a href="#pablo" onClick={e => e.preventDefault()}>
+                          <img
+                            alt="..."
+                            className="img-rounded img-responsive"
+                            src={require("assets/img/Events/Prerna.jpg")}
+                          />
+                        </a>
+                        <CardBody className="details-center">
+                          <a href="#pablo" onClick={e => e.preventDefault()}>
+                            <div className="author">
+                              
+                              <div className="text">
+                                <span className="name">Prerna: Start-up Conclave, 2021</span>
+                                <div className="meta">20 Sept 2021</div>
+                              </div>
+                            </div>
+                          </a>
+                        </CardBody>
+                      </div>
+                    </Card>
+                  </Col>
+                  <Col className="mr-auto" md="5" sm="4">
+                    <Card className="card-plain text-center">
+                      <div className="card-image">
+                        <a href="#pablo" onClick={e => e.preventDefault()}>
+                          <img
+                            alt="..."
+                            className="img-rounded img-responsive"
+                            src={require("assets/img/Events/Neev2.jpg")}
+                          />
+                        </a>
+                        <CardBody className="details-center">
+                          <a href="#pablo" onClick={e => e.preventDefault()}>
+                            <div className="author">
+                              
+                              <div className="text">
+                                <span className="name">NEEV - Business Model Workshop</span>
+                                <div className="meta">28 July 2021</div>
+                              </div>
+                            </div>
+                          </a>
+                        </CardBody>
+                      </div>
+                    </Card>
+                  </Col>
+                  <Col className="m1-auto" md="3" sm="4">
+                    <Card className="card-plain text-center">
+                      <div className="card-image">
+                        <a href="#pablo" onClick={e => e.preventDefault()}>
+                          <img
+                            alt="..."
+                            className="img-rounded img-responsive"
+                            src={require("assets/img/Events/NeevStartupPitching.jpg")}
+                          />
+                        </a>
+                        <CardBody className="details-center">
+                          <a href="#pablo" onClick={e => e.preventDefault()}>
+                            <div className="author">
+                              
+                              <div className="text">
+                                <span className="name">NEEV - Start-up Pitchin'21</span>
+                                <div className="meta">12 July 2021</div>
+                              </div>
+                            </div>
+                          </a>
+                        </CardBody>
+                      </div>
+                    </Card>
+                  </Col>
+                </Row>
+                <Row className="items-row">
+                  <Col className="mr-auto" md="4" sm="4">
+                    <Card className="card-plain text-center">
+                      <div className="card-image">
+                        <a href="#pablo" onClick={e => e.preventDefault()}>
+                          <img
+                            alt="..."
+                            className="img-rounded img-responsive"
+                            src={require("assets/img/Events/NECQualified.png")}
+                          />
+                        </a>
+                        <CardBody className="details-center">
+                          <a href="#pablo" onClick={e => e.preventDefault()}>
+                            <div className="author">
+                              
+                              <div className="text">
+                                <span className="name">NEC Participation 2021</span>
+                                <div className="meta">20 Sept 2021</div>
+                              </div>
+                            </div>
+                          </a>
+                        </CardBody>
+                      </div>
+                    </Card>
+                  </Col>
+                  <Col className="mr-auto" md="4" sm="4">
+                    <Card className="card-plain text-center">
+                      <div className="card-image">
+                        <a href="#pablo" onClick={e => e.preventDefault()}>
+                          <img
+                            alt="..."
+                            className="img-rounded img-responsive"
+                            src={require("assets/img/Events/sm.png")}
+                          />
+                        </a>
+                        <CardBody className="details-center">
+                          <a href="#pablo" onClick={e => e.preventDefault()}>
+                            <div className="author">
+                              
+                              <div className="text">
+                                <span className="name">Recruitment '21</span>
+                                <div className="meta">20 Sept 2021</div>
+                              </div>
+                            </div>
+                          </a>
+                        </CardBody>
+                      </div>
+                    </Card>
+                  </Col>
+                  <Col className="m1-auto" md="4" sm="4">
+                    <Card className="card-plain text-center">
+                      <div className="card-image">
+                        <a href="#pablo" onClick={e => e.preventDefault()}>
+                          <img
+                            alt="..."
+                            className="img-rounded img-responsive"
+                            src={require("assets/img/Events/Alankrit.png")}
+                          />
+                        </a>
+                        <CardBody className="details-center">
+                          <a href="#pablo" onClick={e => e.preventDefault()}>
+                            <div className="author">
+                              
+                              <div className="text">
+                                <span className="name">Alankrit - Linkedin Session</span>
+                                <div className="meta">31 Aug 2021</div>
+                              </div>
+                            </div>
+                          </a>
+                        </CardBody>
+                      </div>
+                    </Card>
+                  </Col>
+                </Row>
+                <Row className="items-row">
+                <Col className="mr-auto" md="3" sm="4">
+                    <Card className="card-plain text-center">
+                      <div className="card-image">
+                        <a href="#pablo" onClick={e => e.preventDefault()}>
+                          <img
+                            alt="..."
+                            className="img-rounded img-responsive"
+                            src={require("assets/img/Events/Parichay.png")}
+                          />
+                        </a>
+                        <CardBody className="details-center">
+                          <a href="#pablo" onClick={e => e.preventDefault()}>
+                            <div className="author">
+                              
+                              <div className="text">
+                                <span className="name">Parichay : Panel Discussion - Core Team & Faculties</span>
+                                <div className="meta">15 Mar 2019</div>
+                              </div>
+                            </div>
+                          </a>
+                        </CardBody>
+                      </div>
+                    </Card>
+                  </Col>
+                  <Col className="mr-auto" md="4" sm="4">
                     <Card className="card-plain text-center">
                       <div className="card-image">
                         <a href="#pablo" onClick={e => e.preventDefault()}>
@@ -87,7 +259,7 @@ function Discover() {
                       </div>
                     </Card>
                   </Col>
-                  <Col md="4" sm="4">
+                  <Col className="ml-auto" md="5" sm="4">
                     <Card className="card-plain text-center">
                       <div className="card-image">
                         <a href="#pablo" onClick={e => e.preventDefault()}>
@@ -111,7 +283,9 @@ function Discover() {
                       </div>
                     </Card>
                   </Col>
-                  <Col className="mr-auto" md="3" sm="4">
+                </Row>
+                <Row className="items-row">
+                <Col className="mr-auto" md="3" sm="4">
                     <Card className="card-plain text-center">
                       <div className="card-image">
                         <a href="#pablo" onClick={e => e.preventDefault()}>
@@ -135,9 +309,7 @@ function Discover() {
                       </div>
                     </Card>
                   </Col>
-                </Row>
-                <Row className="items-row">
-                  <Col className="ml-auto" md="4" sm="6">
+                  <Col md="5" sm="6">
                     <Card className="card-plain text-center">
                       <div className="card-image">
                         <a href="#pablo" onClick={e => e.preventDefault()}>
@@ -162,7 +334,7 @@ function Discover() {
                       </div>
                     </Card>
                   </Col>
-                  <Col md="3" sm="6">
+                  <Col className="ml-auto" md="3" sm="6">
                     <Card className="card-plain text-center">
                       <div className="card-image">
                         <a href="#pablo" onClick={e => e.preventDefault()}>
@@ -186,7 +358,9 @@ function Discover() {
                       </div>
                     </Card>
                   </Col>
-                  <Col className="mr-auto d-sm-block" md="3">
+                </Row>
+                <Row className="items-row">
+                <Col className="mr-auto" md="4">
                     <Card className="card-plain text-center">
                       <div className="card-image">
                         <a href="#pablo" onClick={e => e.preventDefault()}>
@@ -210,9 +384,7 @@ function Discover() {
                       </div>
                     </Card>
                   </Col>
-                </Row>
-                <Row className="items-row">
-                  <Col className="ml-auto" md="2" sm="6">
+                  <Col className="ml-auto" md="4" >
                     <Card className="card-plain text-center">
                       <div className="card-image">
                         <a href="#pablo" onClick={e => e.preventDefault()}>
@@ -236,7 +408,7 @@ function Discover() {
                       </div>
                     </Card>
                   </Col>
-                  <Col md="4" sm="6">
+                  <Col className="m1-auto" md="4" >
                     <Card className="card-plain text-center">
                       <div className="card-image">
                         <a href="#pablo" onClick={e => e.preventDefault()}>
